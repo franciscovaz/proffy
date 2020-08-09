@@ -15,7 +15,7 @@
 </br>
 
 <h1 align="center">
-  <img width="182" alt="Proffy" src="https://user-images.githubusercontent.com/27808014/89743762-25145980-da9e-11ea-9d11-4c68312ece5f.png">
+  <img alt="Proffy" src="https://user-images.githubusercontent.com/27808014/89743762-25145980-da9e-11ea-9d11-4c68312ece5f.png">
 </h1>
 
 ## 💇🏻‍♂️ About the project
