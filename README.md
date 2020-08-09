@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="182" alt="Proffy" src="https://user-images.githubusercontent.com/11545976/83693566-b5c94780-a5cc-11ea-893f-dd34d8cb10c1.png">
+  <img width="182" alt="Proffy" src="https://user-images.githubusercontent.com/27808014/89743800-7ae90180-da9e-11ea-838d-7f52b57dc542.png">
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,9 @@
 
 </br>
 
-![image](imgs/preview-nlw.png)
+<h1 align="center">
+  <img width="182" alt="Proffy" src="https://user-images.githubusercontent.com/27808014/89743762-25145980-da9e-11ea-9d11-4c68312ece5f.png">
+</h1>
 
 ## 💇🏻‍♂️ About the project
 
