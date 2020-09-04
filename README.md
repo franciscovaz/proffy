@@ -21,7 +21,7 @@
 ## 💇🏻‍♂️ About the project
 
 Proffy is a Web and Mobile application designed to help connect students and teachers/other students. 
-Therefore, this application offers 'teachers' the possibility to register classes, being able to add information such as the discipline, cost and timetable, and students the possibility to search for registered classes.
+Therefore, this application offers teachers/students the possibility to register classes, being able to add information such as the discipline, cost and timetable, and students the possibility to search for registered classes.
 
 This project was developed on Next Level Week event by Rocketseat 🚀
 
